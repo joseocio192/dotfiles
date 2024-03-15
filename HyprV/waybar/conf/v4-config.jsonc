@@ -5,16 +5,17 @@
   "exclusive": true,
   "passthrough": false,
   "gtk-layer-shell": true,
-  "height": 20,
+  "height": 16,
   "modules-left": [
     "custom/power_btn",
     "custom/lock_screen",
     "hyprland/workspaces"
   ],
   "modules-center": [
-    "idle_inhibitor",
+    //"idle_inhibitor",
     "clock",
-    "custom/updates"
+    "custom/updates",
+    "custom/weather"
   ],
   "modules-right": [
     "cpu",
@@ -22,11 +23,11 @@
     "pulseaudio#microphone",
     "backlight",
     "tray",
-    "temperature",
-    "custom/power_profile",
+    //"temperature",
+    //"custom/power_profile",
     "battery",
-    "hyprland/language",
-    "custom/myhyprv",
+    //"hyprland/language",
+    // "custom/myhyprv",
     "custom/light_dark"
   ],
   "include": [

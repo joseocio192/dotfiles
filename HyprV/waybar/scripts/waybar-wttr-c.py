@@ -6,7 +6,7 @@ from datetime import datetime
 
 WEATHER_CODES = {
     '113': '☀️ ',
-    '116': '⛅ ',
+    '116': '⛅',
     '119': '☁️ ',
     '122': '☁️ ',
     '143': '☁️ ',

@@ -101,7 +101,12 @@ tooltip label{
     font-size: 16px;
     margin-right: 5px;
 }
-
+#custom-notification {
+    margin-left: 0px;
+    border-right: 0px;
+    font-size: 16px;
+    margin-right: 5px;
+}
 #custom-launch_firefox, 
 #custom-launch_kitty {
     font-size: 20px;

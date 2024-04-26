@@ -109,7 +109,7 @@
   },
   "hyprland/workspaces": {
     "disable-scroll": true,
-    "active-only:": true,
+    "active-only:": false,
     "all-outputs": false,
     "on-click": "activate",
     "persistent_workspaces": {}
